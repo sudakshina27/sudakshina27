@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m Sudakshina, a developer turned student (again) learning how systems, intelligence, and ideas come together.
+
+My background is in backend engineering and Salesforce systems, but right now I’m spending most of my time exploring artificial intelligence and learning by building small, experimental projects.
+
+I don’t consider myself an expert in AI; more like someone figuring things out one project at a time.
+
+Currently studying MSc in Artificial Intelligence Engineering at Universität Passau, Germany.
+Previously, I worked at Deloitte USI on backend systems and internal tools used across teams.
+
+Outside of tech, I like music,  reading fiction, and paying attention to small, ordinary details that often end up shaping how I think.
+
+### What I'm working on
+- 🧠 Learning AI/ML fundamentals
+- 🔨 Building small personal projects
+- 🌐 This portfolio → [sudakshina27.github.io/work.dev.v2](https://sudakshina27.github.io/work.dev.v2)
+
+Always happy to connect and learn from others.
+
+### Find me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sudakshina--bhattacharjee-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sudakshina-bhattacharjee)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-purple?style=flat)](https://sudakshina27.github.io/work.dev.v2)
