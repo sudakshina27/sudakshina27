@@ -34,5 +34,4 @@ Outside of tech, I like music,  reading fiction, and paying attention to small, 
 Always happy to connect and learn from others.
 
 ### Find me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sudakshina--bhattacharjee-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sudakshina-bhattacharjee)
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-purple?style=flat)](https://sudakshina27.github.io/work.dev.v2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudakshina-bhattacharjee)
